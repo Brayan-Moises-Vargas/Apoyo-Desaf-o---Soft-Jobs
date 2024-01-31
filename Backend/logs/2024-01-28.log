@@ -1,0 +1,32 @@
+
+Started GET / for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 11:21:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 31 ms Request ID: [ee4c6cc9-42c5-4a54-9233-2011b928fedf]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 11:25:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 49 ms Request ID: [e083323f-fd81-46ee-8e3a-14ddf13353e7]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 11:55:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 125 ms Request ID: [fac047dc-d676-4a41-bcb8-2e5057f3fb6c]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 12:06:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 50 ms Request ID: [7dca203e-1e2a-4771-b3c4-f4a5bb5bc76e]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:35:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 40 ms Request ID: [817df47c-0800-481d-bcdd-e7b47acc6659]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:36:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"12345","rol":"Frontend Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 17 ms Request ID: [45f071cd-bfaa-494a-a43b-a032ac6e7a9f]
+
+Started GET /usuarios%20 for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:51:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 84 ms Request ID: [9f69b949-5863-493a-b6e6-c4b60be417e9]
+
+Started GET /usuarios%20 for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:51:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [c90050d1-0afd-43e6-98e7-d9fe74947907]

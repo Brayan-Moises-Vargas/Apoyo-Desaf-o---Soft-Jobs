@@ -1,0 +1,164 @@
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:12:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}}
+Completed: 201 message:  Time response: 379 ms Request ID: [00daf3cd-91d9-4a47-854d-bb2f7db063c5]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:13:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 443 ms Request ID: [ef7ec368-cfb1-4e26-91db-a85012c294f1]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:13:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:13:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 17 ms Request ID: [27426dca-89ad-4e84-82c9-832f0f63485d]
+
+Completed: 200 message:  Time response: 23 ms Request ID: [fe1f176a-c204-4083-8c72-fc002ce27bed]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:20:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 432 ms Request ID: [f5b603f8-0f16-48d4-9f48-b38b015c5ccf]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:20:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 10 ms Request ID: [eb548ab7-30fb-4d96-a61b-a4ed5f30c09d]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:20:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 15 ms Request ID: [f26c97e5-5fa4-42c5-a682-587c7962292a]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:21:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 169 ms Request ID: [9224b062-221c-4980-bce4-be5afba63767]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:21:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [8bcafc2d-452a-4354-bf1a-cf0ef04b7a43]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:21:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 12 ms Request ID: [271490fc-b276-452b-b26c-15157eb45b87]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:23:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 80 ms Request ID: [cff2f1ef-03f4-4c58-b872-9d62be515429]
+
+Completed: 200 message:  Time response: 75 ms Request ID: [2741bc35-c9c8-44c4-85fa-57d11b933531]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:23:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:23:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 71 ms Request ID: [e6e544f0-b836-4326-a1b7-86658eaadf90]
+
+Completed: 200 message:  Time response: 78 ms Request ID: [df67a3ee-752c-40d3-8a89-76991e42f040]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:23:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:23:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 71 ms Request ID: [63d3e4de-1383-4b0f-977b-6bbdd52dabee]
+
+Completed: 200 message:  Time response: 80 ms Request ID: [d805c352-e71e-42e5-90f0-fe7ed8177ba6]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:24:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:24:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 65 ms Request ID: [73eadec9-cb90-4851-a679-77eb9705e44c]
+
+Completed: 200 message:  Time response: 68 ms Request ID: [2ac438fa-0ffa-4ba0-b738-9bb304aa9590]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:25:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:25:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 75 ms Request ID: [a8d24f8b-d3b5-4fa2-9f49-7b67901bb457]
+
+Completed: 304 message:  Time response: 75 ms Request ID: [e5b11bbf-3680-4496-af60-0e8098ea3f0c]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 236 ms Request ID: [2929fc4b-1d39-43dd-98af-b243eea9b37d]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 12 ms Request ID: [41e7620c-8db6-4f77-8fb8-0e65a80eb00c]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [d38d286e-461d-4fb5-aa0d-7186376966e7]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 218 ms Request ID: [d7669760-29b2-43fd-962c-8d6fd99ae2e3]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [4e8be71d-c705-4e26-8207-7d68089d70d6]
+
+Completed: 304 message:  Time response: 21 ms Request ID: [a5cbf7d8-88ad-4ae6-8b05-797d35d90bc2]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:26:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 15 ms Request ID: [1bcb3420-7e73-4350-a0dc-527df9e65423]
+
+Completed: 200 message:  Time response: 65 ms Request ID: [e4cbb75c-bee5-40ec-9575-5e7bc1d01ad5]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:28:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 247 ms Request ID: [350bcce0-c1a6-42c4-9495-bdca0ff1b333]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:28:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:28:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 11 ms Request ID: [52a5ca5f-aca0-4c72-980b-a2f39bcbeeca]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [9d7f9671-2413-4edd-b863-37ff2d29ad7d]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:29:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 235 ms Request ID: [9c2f6132-7ded-4e91-bf1a-a80fadf78862]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:29:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:29:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [d2556114-ff87-4e0b-8038-fd88f3815537]
+
+Completed: 200 message:  Time response: 15 ms Request ID: [c4e4865d-d517-4e69-b76b-3bb303c25951]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"tutor@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}}
+Completed: 201 message:  Time response: 202 ms Request ID: [b1fbaca7-3925-48af-a2a8-8d2be6bcebe9]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 216 ms Request ID: [384f783a-715b-4c12-b75f-48ef9691ec77]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [34895b43-88bf-4dc2-b4b8-bacd4597b356]
+
+Completed: 200 message:  Time response: 16 ms Request ID: [d23db75e-f26b-4152-9e2e-b13f85c9149f]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"docente@desafiolatam.com","password":"123456"}}
+Completed: 200 message:  Time response: 119 ms Request ID: [c20b6f54-56b4-4d10-8346-fae1b6a38da4]
+
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 21:30:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [ae39c7a3-3528-46f0-893e-8286d21ff6b8]
+
+Completed: 304 message:  Time response: 72 ms Request ID: [5cff019e-f89b-41a3-b0b7-2c675015afc7]
